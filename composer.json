@@ -1,0 +1,7 @@
+{
+  "name": "MartijnHarte/rijksoverheid_cookie_opt_in",
+  "description": "A shim package for Rijksoverheid cookie opt-in",
+  "type": "drupal-library",
+  "homepage": "https://www.rijksoverheid.nl/documenten/publicaties/2013/11/21/download-rijksoverheid-cookie-opt-in-zip",
+  "version": "2.0.0"
+}
